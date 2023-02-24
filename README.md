@@ -1,10 +1,11 @@
 # <h1 align="center">Question-Answer App</h1>
 ## This is a Question-Answer application where<br>
 ⚡ UI Done with Flutter and Dart<br>
-⚡ Restful API, Storage Shared Preference, SQLITE <br>
+⚡ UI/UX design<br>
 
-### 🌱 Then User will found the description of their current city's weather. And also found city name.
+### 🌱 Snap-shot 01:
 ![Qus-ans](https://user-images.githubusercontent.com/68172428/221182324-4d18aa8b-95df-4512-974c-54bb207bc6f8.png)
+### 🌱 Snap-shot 02:
 ![qus-ans 2](https://user-images.githubusercontent.com/68172428/221182337-56354858-b039-4d53-bfa6-5a5727012d66.png)
 
 
