@@ -1,5 +1,5 @@
 # <h1 align="center">Question-Answer App</h1>
-## This is a Question-Answer application where<br>
+## This is a Question-Answer gaming application where<br>
 ⚡ UI Done with Flutter and Dart<br>
 ⚡ UI/UX design<br>
 
